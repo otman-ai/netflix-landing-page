@@ -1,5 +1,5 @@
 # Implement Netflix Landing Page using React jsx with Tailwind css
-
+See the demo [here](https://netflix-landing-page-sooty.vercel.app/)
 - Clone the repo: 
 `git clone https://github.com/otman-ai/netflix-landing-page.git`
 
