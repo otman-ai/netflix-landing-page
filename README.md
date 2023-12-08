@@ -1,7 +1,7 @@
 # Implement Netflix Landing Page using React jsx with Tailwind css
 
 - Clone the repo: 
-`git clone `
+`git clone https://github.com/otman-ai/netflix-landing-page.git`
 
 - make sure you have node installed
 
